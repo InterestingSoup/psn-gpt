@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+.env
+*.pyc
+*.pyo
+*.pyd
+.Python
+ai.py
+.last_gpt_seen.json
+.replied_gpt.json
+.replied_gpt_hashes.json
+test.py
+psn-gpt.py.working
+psn-gpt.py.aiZubi
+.replied_message_uids.json
